@@ -36,4 +36,4 @@ bash /tmp/test.sh /etc/passwd
 检查完成
 然后传入不存在的文件
 bash /tmp/test.sh /tmp/不存在的文件txt
-输出。。。。
+输出。。。。。
